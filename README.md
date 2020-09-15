@@ -23,3 +23,5 @@
 
 - build using Laravel as base
 - use Vuex
+- create components for elements used e.g form field, product etc
+- add unit tests for the components
